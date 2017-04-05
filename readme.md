@@ -10,8 +10,11 @@ The best guideline for all office etiquette: strive to understand and value what
 ## Personal spaces
 
 ### General
-- Treat cubes like offices: always knock before stepping into the cube; try not to surprise or startle anyone; come back later if they’re busy.
-- Post a sign or flag at your cubicle entrance to signal when you’d prefer not to be interrupted.
+- Personal work spaces have nameplates that can be moved back and forth from Available to Do Not Disturb. Please set your status appropriately.
+  - Please always check the nameplate before interrupting someone. This includes the people at the front desk, who at times have project work that requires concentration.
+  - If someone has set their status to Available, please knock before stepping into the cube.
+  - If someone has set their status to Do Not Disturb, please use a non-interrupting tool like Email or Slack to send them a message.
+  - Please do not always set your status to Do Not Disturb; this reduces the usefulness and value of the nameplates for the rest of us.
 - Promote a clean and organized workspace.  Don’t have items overflowing cubicles or blocking walkways.  
 - Keep food items in sealed, airtight containers to minimize vermin issues.
 - Respect your colleagues’ personal property and space. Always ask before borrowing anything.
