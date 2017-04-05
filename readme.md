@@ -43,8 +43,8 @@ We need to work together as a community to keep Cubespace as free of vermin as p
 - If meeting in a room with a door, close it.
 - If you wish to speak with someone, walk over to them or consider using a chat program like Slack. 
 
-## Pets
-Cubespace cannot accommodate separate work areas for pet-owners and those with allergies or those that are otherwise uncomfortable with pets.  We prioritize the wellbeing of our staff and the work that they do in the office.  Those who wish to bring their dog to campus to participate in Libraries sanctioned dog related activities, for example, should make arrangements to work in another part of the Libraries those days.
+## Service, Therapy, and Companion Animals
+There is currently no agreed-upon norm regarding animals in Cubespace. We are awaiting direction from Libraries leadership or elsewhere on this topic.
 
 ## Communal spaces
 These spaces contain shared resources, e.g. the microwave and refrigerator, but also represent an opportunity to share what we bring, e.g. baked goods, art, celebratory events, humor; and to interact and collaborate.  Maintaining these spaces is a shared responsibility.
