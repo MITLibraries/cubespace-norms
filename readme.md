@@ -21,9 +21,9 @@ The best guideline for all office etiquette: strive to understand and value what
 - Resist reading other's computer screens. Privacy screens for monitors are available to anyone upon request. Contact techpurchases-lib@mit.edu.
 
 ### Critters
-We need to work together as a community to keep Cubespace as free of vermin as possible.  While this isn’t entirely possible to do based on the building structure and age, there are some agreed upon basics we can implement.
+We need to work together as a community to keep Cubespace as free of vermin as possible.  While this isn’t _entirely_ possible to do based on the building structure and age, there are some agreed upon basics we can implement.
 - Trash is thrown out nightly Sunday through Thursday.  If you have food trash on a Friday night please dispose of it in a hallway trash can.
-- Mousetraps in the office are a necessary reality.  If you see a sprung trap please tell Kelly.  If you see a trap with a creature in it please call facilities _immediately_ (FIXIT x3-4948).  They will send someone to take care of it.
+- Mousetraps in the office are a necessary reality.  If you see a sprung trap please tell Kelly.  If you see a trap with a creature in it please call facilities _immediately (FIXIT x3-4948)_.  They will send someone to take care of it.
 - Sightings of live untrapped creatures in the office should be reported to facilities.  Sightings of droppings can be reported to Kelly.
 - Cube floors and surfaces need to be kept as clean of nesting material as possible.  We have storage space available for boxes and bags.  Whenever possible, cardboard boxes need to be broken down and recycled.  In cube storage should be limited to airtight, hard sided containers.
 
