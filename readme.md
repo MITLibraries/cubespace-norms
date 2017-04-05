@@ -65,7 +65,7 @@ These spaces contain shared resources, e.g. the microwave and refrigerator, but 
 - Be mindful of your neighbors regarding personal hygiene and odors such as perfume, cologne, flowers, smelly foods, etc. 
 
 ## Meeting
-Shared conference rooms are available for scheduled, and when possible, longer unscheduled conversations. When meeting in any of these spaces, please close the door. Both come equipped with a telephone and video conferencing capabilities.
+Shared conference rooms are available for scheduled, and when possible, longer unscheduled conversations. When meeting in _any_ of these spaces, book the room via its Outlook calendar, and please close the door. Both come equipped with a telephone and video conferencing capabilities.
 
 **Smaller conference room:** ("LIB: E25-131 Cubespace Sm Mtg Rm" in Outlook)
 - 1-3 people
