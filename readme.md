@@ -18,7 +18,7 @@ The best guideline for all office etiquette: strive to understand and value what
 - Promote a clean and organized workspace.  Don’t have items overflowing cubicles or blocking walkways.  
 - Keep food items in sealed, airtight containers to minimize vermin issues.
 - Respect your colleagues’ personal property and space. Always ask before borrowing anything.
-- Resist reading other's computer screens. Privacy screens for monitors are available to anyone upon request. Contact Kelly.
+- Resist reading other's computer screens. Privacy screens for monitors are available to anyone upon request. Contact techpurchases-lib@mit.edu.
 
 ### Critters
 We need to work together as a community to keep Cubespace as free of vermin as possible.  While this isn’t entirely possible to do based on the building structure and age, there are some agreed upon basics we can implement.
