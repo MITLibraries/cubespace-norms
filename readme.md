@@ -63,7 +63,6 @@ These spaces contain shared resources, e.g. the microwave and refrigerator, but 
 
 ### Scents
 - Be mindful of your neighbors regarding personal hygiene and odors such as perfume, cologne, flowers, smelly foods, etc. 
-- If you have a particularly aromatic meal, eat in conference room or outside of Cubespace. 
 
 ## Meeting
 Shared conference rooms are available for scheduled, and when possible, longer unscheduled conversations. When meeting in any of these spaces, please close the door. Both come equipped with a telephone and video conferencing capabilities.
