@@ -59,7 +59,7 @@ These spaces contain shared resources, e.g. the microwave and refrigerator, but 
 - The kitchen and fridge will be cleaned thoroughly once a month. Volunteers will be incentivized.  
 
 ### Space issues
-- Bikes are not permitted in MIT Buildings - please lock outside.
+- If you choose to bring your bike into Cubespace, please store it in your cubicle.
 
 ### Scents
 - Be mindful of your neighbors regarding personal hygiene and odors such as perfume, cologne, flowers, smelly foods, etc. 
